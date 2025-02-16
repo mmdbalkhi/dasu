@@ -2,3 +2,4 @@
 .cache/
 # meson
 build*/
+**/a.out
